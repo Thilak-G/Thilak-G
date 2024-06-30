@@ -11,8 +11,6 @@
   
 - 📫 Reach me **thilakgganeshan@gmail.com**
 
--  📄 Know about my experiences [Resume](https://github.com/Thilak-G/Thilak-G/blob/main/THILAK%20G.pdf)
-  
 - ⚡ Fun fact **I’ve written more lines of code than I’ve written text messages this year.**
   
 <h3 align="left">Connect with me:</h3>
