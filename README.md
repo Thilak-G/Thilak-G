@@ -11,7 +11,7 @@
   
 - 📫 Reach me **thilakgganeshan@gmail.com**
 
--  📄 Know about my experiences [Resume](aiapply.co/r/66819082aedb4)
+-  📄 Know about my experiences [Resume](https://github.com/Thilak-G/Thilak-G/blob/main/THILAK%20G.pdf)
   
 - ⚡ Fun fact **I’ve written more lines of code than I’ve written text messages this year.**
   
