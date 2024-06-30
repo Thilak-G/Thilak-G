@@ -37,10 +37,12 @@
 <img height="50" width="75" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
 </p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/thilakgganeshan?theme=dark&font=roboto&ext=activity)
+[![Thilak's GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=thilak-g&show_icons=true&locale=en&layout=compact&theme=dark)](https://git.io/streak-stats)
+
+![Thilak's LeetCode Stats](https://leetcard.jacoblin.cool/thilakgganeshan?theme=dark&font=roboto&ext=activity)
 
 ![Thilak's GitHub stats](https://github-readme-stats.vercel.app/api?username=thilak-g&show_icons=true&locale=en&theme=dark)
 
+[![Thilak's GitHub Streak](https://streak-stats.demolab.com?user=thilak-g&theme=dark)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=thilak-g&theme=dark)](https://git.io/streak-stats)
-
+[![Thilak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thilak-g&bg_color=000000&color=fdfcfd&line=ffffff&point=938585&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
