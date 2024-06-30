@@ -11,8 +11,8 @@
   
 - 📫 Reach me **thilakgganeshan@gmail.com**
   
-- ⚡ **I’ve written more lines of code than I’ve written text messages this year.**
-
+- ⚡ Fun fact **I’ve written more lines of code than I’ve written text messages this year.**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thilakg06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thilakg06" height="30" width="40" /></a>
