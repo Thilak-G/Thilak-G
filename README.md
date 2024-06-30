@@ -10,7 +10,9 @@
 - 👯 I’m looking to collaborate on **projects as a fresher**
   
 - 📫 Reach me **thilakgganeshan@gmail.com**
-
+  
+- 🔭 Here's my [Resume](https://aiapply.co/r/66819082aedb4)
+  
 - ⚡ Fun fact **I’ve written more lines of code than I’ve written text messages this year.**
   
 <h3 align="left">Connect with me:</h3>
