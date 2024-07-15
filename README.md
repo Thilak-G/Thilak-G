@@ -1,4 +1,4 @@
-<h1 align="left">I'm Thilak G</h1>
+<h1 align="left">Thilak G</h1>
 <h3 align="left">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thilak-g&label=Profile%20views&color=0e75b6&style=flat" alt="thilak-g" /> </p>
